@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+ <head> <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=Cinzel+Decorative:wght@400;700;900&family=Jacquard+12&family=Syne+Tactile&display=swap" rel="stylesheet">  
+  <style>
+ 
+        body {
+            background-color: #272727;
+            font-size:0.8em;
+            text-align: justify
+            
+        }
+        h1 {
+          color:#6d46a0;
+          font-family: 'Caesar Dressing', system-ui;
+          font-size: 2em;
+        }
+        h2 {
+        
+          color:#6d46a0;
+          font-size: 2em;
+          font-family:"Cinzel Decorative", serif; 
+          margin: 3px 0;
+          
+        }
+        h3 { 
+          color:#d2a3e0;
+          font-family:"Syne Tactile", system-ui;
+          font-size:1.5em;
+          margin-bottom: -8px ;
+          margin-top:0px;
+          text-align: left;
+        }
+        p {
+          color:#d2a3e0;
+          margin:1px
+        }
+
+
+    </style></head><div style="margin: 2em"
+ <table>
+  <table style="width: 70em;">
+  <colgroup>
+    <col style="width: 50%;">
+    <col style="width: 0%;">
+    <col style="width: 10%;">
+  </colgroup>
+
+  <td><div style="margin-left:3em"><img src="https://uploads.onecompiler.io/457kwh9x3/457m7nz4y/Mod%C3%83%C2%A8le%20Carr%C3%83%C2%A9%20photo%20mdm%20bn%20-%20Copie.png"
+  alt="Photo Profil Noir et Blanc"
+  width="400" ></div></td><td><th vertical-align=top><div style="writing-mode:tb-rl"><h1><div style="font-size: 3.9em;"><div style="font-face: 'Caesar Dressing', system-ui">CORDAZZO Lucie</div></div></div></h1></div></th><div style="margin-left: 0px">
+  </td><td><div style="margin-right:2em">
+  <center><img src="https://uploads.onecompiler.io/457kwh9x3/457m7nz4y/Illustration_sans_titre.png" alt=monstre violet animé width="150" height="150"></center><br><div style="color:#785ab5; margin-top:-3em">lucie.corda@gmail.com 
+    - 07.69.81.42.52<br> - 76000 ROUEN
+    <br></div>
+    <br><section>
+   
+    <h2>FORMATIONS</h2>
+
+   <div style="color: #d2a3e0"> <br><b><h3>TP - Concepteur Développeur d’application</b></h3>
+<br>Normandie Web School
+<br><i>Depuis Sept 2026</i>
+<br><p>Wordpress, intégration web (HTML, CSS, JAVA), E-commerce,Photo, Montage vidéo, Développement de projets, création graphique, outils numériques, webmarketing, UI/UX, communication Web</p>
+  
+  <br><b><h3>BTS Assistante Manager</b></h3>
+<br>Lycée Henri Meck
+<br><i>2015 - 2017</i>
+<br>
+<br><b><h3>Faculté des Arts </b></h3>
+<br>mention Design
+<br>Faculté des Arts de Strasbourg 
+<br><i>2013- 2015</i>
+
+<br><br><b><h3>Baccalauréat Littéraire </b></h3>
+<br>Lycée Fustel de Coulanges - Strasbourg 
+</div></div></div></section></td></section></td>
+ </table>
+
+
+ <table>
+  <table style="width: 70em;">
+  <colgroup>
+    <col style="width: 50%;">
+    <col style="width: 0%;">
+    <col style="width: 10%;">
+  </colgroup>
+ <section><div style="margin-top:-0.5em; margin-left:50px; margin-right:50px">
+ <td><center><h2>EXPERIENCES PROFESSIONNELLES</h2></center>
+
+ <br><div style="color: #d2a3e0">
+ <br><div style="margin-top:-1.5em"><h3><b>Responsable Accueil, Hébergement, Communication</b></h3></div>
+<br>Alliance Française Strasbourg Europe
+<br><i>Septembre 2023 - Aout 2026</i>
+<br>Accueil : Accueil client, facturation, recherche d’hébergements, recherche et mise en place de partenariats, assistance comptable, mise en place de procédures, accueil des évènements culturels, rapport moral, responsable Labélisation
+<br>Communication visuelle : Montage de vidéos, flyers, affiches, kakemonos, bannières Brevo, newsletters, cartons d’invitations, création de modèles réseaux sociaux, mise à jour du site internet et création de contenu, prise de photos.
+<br>Assistance pédagogique : création des plannings, suivi de la législation, création des documents de suivi (mise en place de procédures, formalisation de documents)
+ 
+  <br><br><h3><b>Gestionnaire Scolarité</b></h3>
+<br>Université de Strasbourg
+<br><i>Février 2019 - Aout 2023</i>
+<br>Accueil physique, téléphonique et email, création des plannings, saisie des notes, mise à jour du site internet, création de la newsletter bi-mensuelle, maquettage des cours, editions des diplômes, communication visuelle (flyers promotionnels et affiches) 
+
+<br><br><h3><b>Support Technique, Téléconseillère</b></h3>
+<br>Hop! Air France 
+<br><i>2018 - Février 2019</i>
+<br>Accueil téléphonique et email, gestion des réclamations, SAV et ventes. Support technique aux aéroports
+
+<br><br><h3><b>Téléconseillère</b></h3>
+<br>Vente Privée  devenu Veepee 
+<br><i>Novembre 2017 - Janvier 2018</i></div></section></td>
+<td>
+<section><div style="margin-left:60px">
+<br>
+<p>Anglais : B2/C1 - Allemand: A2</p>
+<br>
+<p>Logiciel : Word, Excel, Photoshop, PowerPoint, GIMP, Procreate, Wordpress, Canva, Codage Html/CSS, Java Script, AEC, Apogée, Moodle, Brevo, Première Pro, Indesign.
+<br>
+<br>
+<p>Animation, Dessin, Broderie, Lecture, Créations en fleurs séchées, Couture, Codage HTML/CSS, Montage Vidéo</p>
+<br>
+<p><center><br><div style="color: #f2dda6; font-size:2em; font-family: 'Caesar Dressing', system-ui;"><a ref="https://www.linkedin.com/in/lucie-cordazzo-b37087445/">LINKEDIN</a></div></p>
+<br>
+<img src="https://i.imgur.com/4xEoESX.gif" alt=monstre violet animé width="200" height="200"><br></div></div>
+</center></section>
+</td>
+<td><th vertical-align=top><div style="writing-mode:tb-rl"><h1><div style="font-size: 4em;"><div style="font-face: 'Caesar Dressing', system-ui">Portfolio</div></div></div></h1></div></th></td>
+</table>
+
+</html>
